@@ -2,11 +2,11 @@
 I'm Freek Roelofs, an astrophysicist at the Center for Astrophysics | Harvard & Smithsonian.
 I work on imaging black holes with radio telescopes in the Event Horizon Telescope Colloboration, using the technique of Very Long Baseline Interferometry (VLBI).
 
-I developed the [SYMBA synthetic data generation pipeline](https://bitbucket.org/M_Janssen/symba/src/master/), simulating the end-to-end VLBI observation and calibration process from physical principles.
+🦁 I developed the [SYMBA synthetic data generation pipeline](https://bitbucket.org/M_Janssen/symba/src/master/), simulating the end-to-end VLBI observation and calibration process from physical principles.
 
-I coordinate the [ngEHT Analysis Challenges](https://challenge.ngeht.org/), investigating black hole imaging, movie making, and parameter inference algorithms for the Next-Generation EHT.   
+📡🌍📡 I coordinate the [ngEHT Analysis Challenges](https://challenge.ngeht.org/), investigating black hole imaging, movie making, and parameter inference algorithms for the Next-Generation EHT.   
 
-My papers are listed in my [personal ADS library](https://ui.adsabs.harvard.edu/public-libraries/WH4w71_5TyiUpKd0VkprJQ).
+📜 My papers are listed in my [personal ADS library](https://ui.adsabs.harvard.edu/public-libraries/WH4w71_5TyiUpKd0VkprJQ).
 <!--
 **freekroelofs/freekroelofs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
