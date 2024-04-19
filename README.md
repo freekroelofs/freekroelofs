@@ -4,7 +4,7 @@ I work on imaging black holes with radio telescopes in the Event Horizon Telesco
 
 I developed the [SYMBA synthetic data generation pipeline](https://bitbucket.org/M_Janssen/symba/src/master/), simulating the end-to-end VLBI observation and calibration process from physical principles.
 
-My papers are listed in my [personal ADS library](https://ui.adsabs.harvard.edu/public-libraries/WH4w71_5TyiUpKd0VkprJQ)
+My papers are listed in my [personal ADS library](https://ui.adsabs.harvard.edu/public-libraries/WH4w71_5TyiUpKd0VkprJQ).
 <!--
 **freekroelofs/freekroelofs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
