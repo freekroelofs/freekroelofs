@@ -2,6 +2,8 @@
 I'm Freek Roelofs, an astrophysicist at Radboud University in Nijmegen, the Netherlands.
 I work on imaging black holes with radio telescopes in the Event Horizon Telescope Colloboration, using the technique of Very Long Baseline Interferometry (VLBI).
 
+🛰️🌍🛰️ I develop the [svlbisim](https://github.com/freekroelofs/svlbisim) toolkit to simulate Space VLBI observations.
+
 🦁 I developed the [SYMBA synthetic data generation pipeline](https://bitbucket.org/M_Janssen/symba/src/master/), simulating the end-to-end VLBI observation and calibration process from physical principles.
 
 📡🌍📡 I coordinate the [ngEHT Analysis Challenges](https://challenge.ngeht.org/), investigating black hole imaging, movie making, and parameter inference algorithms for the Next-Generation EHT.   
